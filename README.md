@@ -3,7 +3,7 @@ Collaborated with two other students and created a website that allows the peopl
 differences between phones, phone manufacturers, and phone accessories. They can
 select specific phones to compare to each other, view helpful statistics about
 manufacturers and phones, and filter through the data in different ways. 
-Utilized Oracle Database to store and manage data
+Utilized Oracle Database to store and manage data.
 
 # Project Organization
 
